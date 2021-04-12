@@ -27,7 +27,5 @@ out for the Baking App.
 - [OkHttp](http://square.github.io/okhttp/)
 
 ## Screenshots
-<img src="Screenshots/img1.jpeg" width=280>
-<img src="Screenshots/img2.jpeg" width=280>
-<img src="Screenshots/img3.jpeg" width=280>
-<img src="Screenshots/img4.jpeg" width=280>
+<img src="Screenshots/img1.jpeg" width=280> <img src="Screenshots/img2.jpeg" width=280>
+<img src="Screenshots/img3.jpeg" width=280> <img src="Screenshots/img4.jpeg" width=280>
